@@ -1,1 +1,1 @@
-web: jonesbio app:app
+web: gunicorn app:app
